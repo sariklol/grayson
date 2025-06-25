@@ -159,8 +159,7 @@ section {
 .header__nav-dropdown {
   border: 1px solid #e5e5e5;
   border-radius: 2px;
-  max-width: 160px;
-  width: 100%;
+  width: 160px;
   background: #fff;
   position: absolute;
   left: 0;
@@ -175,7 +174,7 @@ section {
   font-size: 12px;
   color: #000;
   display: block;
-  padding: 12px 30px;
+  padding: 12px 0px 12px 30px;
 }
 
 .header__nav-droplink:hover {
